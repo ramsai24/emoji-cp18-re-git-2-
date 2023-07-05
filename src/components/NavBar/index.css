@@ -1,0 +1,18 @@
+/* Write your code here. */
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #ffffff;
+  width: 100%;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.score-items {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.inner-container {
+  display: flex;
+}
